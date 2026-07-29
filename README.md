@@ -7,10 +7,10 @@ Learn Data Science one swipe at a time.
 ## Screenshots
 
 ### Learning Card
-![Card]("C:\Users\Sonal\OneDrive\Desktop\Screenshot 2026-07-29 081525.png")
+![Card]("images/concept.png")
 
 ### MCQ
-![MCQ]("C:\Users\Sonal\OneDrive\Desktop\Screenshot 2026-07-29 081830.png")
+![MCQ]("images/mcq.png")
 
 ---
 
