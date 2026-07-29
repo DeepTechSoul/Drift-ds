@@ -4,10 +4,26 @@ Learn Data Science one swipe at a time.
 
 🌐 Live Demo: https://driftds.netlify.app
 
+## Screenshots
+
+### Learning Card
+![Card]("C:\Users\Sonal\OneDrive\Desktop\Screenshot 2026-07-29 081525.png")
+
+### MCQ
+![MCQ]("C:\Users\Sonal\OneDrive\Desktop\Screenshot 2026-07-29 081830.png")
+
+---
+
+
 ## Overview
 
 Drift DS is a mobile-first microlearning web app that explains Data Science concepts using short, swipeable cards inspired by social media feeds. Each concept is presented in plain language, with selected topics including interactive MCQs to reinforce learning.
 
+## Why I Built This
+
+Learning Data Science can feel overwhelming because most resources are long, text-heavy, and filled with jargon. I built Drift DS to make learning more engaging by presenting concepts as swipeable, bite-sized lessons inspired by the way people naturally consume content on social media.
+
+The goal is to help beginners understand complex topics in plain language while encouraging consistent, micro-learning.
 ## Features
 
 - 30+ Data Science concepts
