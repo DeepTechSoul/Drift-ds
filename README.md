@@ -6,11 +6,11 @@ Learn Data Science one swipe at a time.
 
 ## Screenshots
 
-### Learning Card
-![Card]("images/concept.png")
+### Concept Card
+![Concept Card](images/concept.png)
 
 ### MCQ
-![MCQ]("images/mcq.png")
+![MCQ](images/mcq.png)
 
 ---
 
