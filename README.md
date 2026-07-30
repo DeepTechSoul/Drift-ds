@@ -4,16 +4,6 @@ Learn Data Science one swipe at a time.
 
 🌐 Live Demo: https://driftds.netlify.app
 
-## Screenshots
-
-### Concept Card
-![Concept Card](images/concept.png)
-
-### MCQ
-![MCQ](images/mcq.png)
-
----
-
 
 ## Overview
 
